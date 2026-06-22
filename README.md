@@ -1,5 +1,7 @@
 # NewsAgent Data — MCP server
 
+[![NewsAgent Data MCP server](https://glama.ai/mcp/servers/newsagentdata/newsagent-mcp/badges/card.svg)](https://glama.ai/mcp/servers/newsagentdata/newsagent-mcp)
+
 Query scored, classified Russian & English news from any MCP client (Claude
 Desktop, Cursor, Cline, etc.). The server wraps the
 [NewsAgent Data API](https://newsagentdata.com) — every article it returns is
